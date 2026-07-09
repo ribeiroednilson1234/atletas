@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html-PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"lang="pt-br, ISO 639-standard">
+<head>
+<script type="text/javascript">Window.Onload = function(){alert("ESTES ATLETAS ESTÃO DISPONÍVEIS PARA NOVO CONTRATO\nCATEGORIAS DE BASE DO DISTRITO FEDERAL E CANDANGÃO-DF.");}</script><script type="text/javascript">Window.Onload = function(){alert(document.images.lenght);</script>
+<meta name="keywords" content="HTML, CSS, JavaScript">
+<meta name="description" content="Página web conjunto de imagens">
+<meta name="author" content="Ednilson Alves" company="segama.com.br"properly="licença MIT">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="refresh" content="20">
+<link rel="stylesheet" type="text/css" media="all" href="gama.css">
+<title>"Esportista do Brasil - Escola-DF"</title>
+</head>
+<body>
+<header><h1><img src="escola.png"/>SOCIEDADE ESPORTIVA DO ESCOLA CLASSE-DF</h1></header>
+<hr container="forte">
+<div class="verde">
+<hr height="altura:4px;"color="#2E8B57"></div>
+<div class="braco">
+<hr height="altura:4px;"color="#FFFFFF"></div>
+</hr>
+<article>
+<h3>FOTOGRAFIAS DO MURAL ESPORTISTAS DO BRASIL DISPONÍVEL PARA O USUÃRIO  DO SISTEMA</h3>
+</article>
+<aside>
+  <h3>IMAGENS DISPONÍVEIS</h3>
+  <div class="nova">
+    <figure><img src="1.jpeg"alt="SUB 8"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPINHA-DF 8</figcaption></figure>
+    <figure><img src="2.jpeg"alt="SUB 10"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 10</figcaption></figure>
+    <figure><img src="3.jpeg"alt="SUB 14"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 14</figcaption></figure>
+    <figure><img src="4.jpeg"alt="ADULTO"height="175px"width="105px"></br>
+    <figcaption>ATLETA CANDANGÃO-DF</figcaption></figure>
+<hr>
+    <figure><img src="1.jpeg"alt="SUB 8"height="175px"width="105px"></br> 
+    <figcaption>ATLETA COPINHA-DF 8</figcaption></figure>
+    <figure><img src="2.jpeg"alt="SUB 10"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 10</figcaption></figure>
+    <figure><img src="3.jpeg"alt="SUB 14"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 14</figcaption></figure>
+    <figure><img src="4.jpeg"alt="ADULTO"height="175px"width="105px"></br>
+    <figcaption>ATLETA CANDANGÃO-DF</figcaption></figure>
+ <hr>
+    <figure><img src="1.jpeg"alt="SUB 8"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPINHA-DF 8</figcaption></figure>
+    <figure><img src="2.jpeg"alt="SUB 10"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 10</figcaption></figure>
+    <figure><img src="3.jpeg"alt="SUB 14"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 14</figcaption></figure>
+    <figure><img src="4.jpeg"alt="ADULTO"height="175px"width="105px"></br>
+    <figcaption>ATLETA CANDANGÃO-DF</figcaption></figure>
+  <hr>
+    <figure><img src="1.jpeg"alt="SUB 8"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPINHA-DF 8</figcaption></figure>
+    <figure><img src="2.jpeg"alt="SUB 10"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 10</figcaption></figure>
+    <figure><img src="3.jpeg"alt="SUB 14"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 14</figcaption></figure>
+    <figure><img src="4.jpeg"alt="ADULTO"height="175px"width="105px"></br>
+    <figcaption>ATLETA CANDANGÃO-DF</figcaption></figure>
+  <hr>
+    <figure><img src="1.jpeg"alt="SUB 8"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPINHA-DF 8</figcaption></figure>
+    <figure><img src="2.jpeg"alt="SUB 10"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 10</figcaption></figure>
+    <figure><img src="3.jpeg"alt="SUB 14"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 14</figcaption></figure>
+    <figure><img src="4.jpeg"alt="ADULTO"height="175px"width="105px"></br>
+    <figcaption>ATLETA CANDANGÃO-DF</figcaption></figure>
+  <hr>
+    <figure><img src="1.jpeg"alt="SUB 8"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPINHA-DF 8</figcaption></figure>
+    <figure><img src="2.jpeg"alt="SUB 10"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 10</figcaption></figure>
+    <figure><img src="3.jpeg"alt="SUB 14"height="175px"width="105px"></br>
+    <figcaption>ATLETA COPA-DF SUB 14</figcaption></figure>
+    <figure><img src="4.jpeg"alt="ADULTO"height="175px"width="105px"></br>
+    <figcaption>ATLETA CANDANGÃO-DF</figcaption></figure>
+  </div>
+</aside>
+<footer container="footer">
+  <div class="final">
+    <figure><img src="cbf.png"height="105px"width="175px""></figure></br>
+    <figcaption><p>CONFEDERAÇÃO BRASILEIRA DE FUTEBOL</p></figcaption>
+    <figure><img src="mesporte.png"height="105px"width="175px"></figure></br>
+    <figcaption><p>MINISTÉRIO DOS ESPORTES</p></figcaption>
+    <figure><img src="gdf.png"height="105px"width="175px"></figure></br>
+    <figcaption><p>GOVERNO DO ESTADO E DISTRITO FEDERAL</p></figcaption>
+  </div>
+</footer>
+</body>
+</html>
