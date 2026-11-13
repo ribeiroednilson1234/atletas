@@ -8,7 +8,7 @@ on: Atleta
   push:
     branches: [ "Principalribeiroednilson1234-patch-dpf" ],[ "Principalribeiroednilson1234-patch-atletas" ],[ "Principalribeiroednilson1234-patch-iks" ], [ "Principalribeiroednilson1234-main" ]
   pull_request:
-    branches: [ "Principalribeiroednilson1234-patch-dpf" ],[ "Principalribeiroednilson1234-patch-atletas" ],[ "Principalribeiroednilson1234-patch-atletas-1" ], [ "Principalribeiroednilson1234-main" ]
+    branches: [ "Principalribeiroednilson1234-patch-dpf" ],[ "Principalribeiroednilson1234-patch-enviar" ],[ "Principalribeiroednilson1234-patch-atletas-1" ], [ "Principalribeiroednilson1234-main" ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
